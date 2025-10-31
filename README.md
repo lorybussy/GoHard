@@ -1,4 +1,4 @@
-# GoHard – Fitness App (Figma Design)
+# GoHard – Fitness App
 
 GoHard is a fitness app UI/UX concept designed in Figma.  
 The project focuses on providing a clean, modern, and motivating user experience for fitness tracking and goal management.
