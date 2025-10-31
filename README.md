@@ -9,7 +9,7 @@ The project focuses on providing a clean, modern, and motivating user experience
 
 The GoHard Figma project includes:
 
-- Complete mobile app UI design (iOS & Android)  
+- Complete mobile app UI design 
 - Interactive prototype for user flows  
 - Consistent design system with reusable components  
 - Typography and color guidelines  
